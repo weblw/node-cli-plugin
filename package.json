@@ -1,0 +1,16 @@
+{
+  "name": "mycli-react-webpack-plugin",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "weblw <872993425@qq.com> (https://weblw.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.17.0",
+    "webpack-merge": "^5.7.3"
+  }
+}
